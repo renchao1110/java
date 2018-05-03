@@ -1,5 +1,5 @@
 package entity;
-//测试的 学生类－－－－－－－ddddd
+//测试的 学生类
 public class Student {
 	private String name;
 	private int age;
