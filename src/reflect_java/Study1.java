@@ -3,7 +3,7 @@ package reflect_java;
 import java.lang.reflect.Constructor;
 
 import entity.Student;
-
+//反射 reflect 测试
 public class Study1 {
 	
 	public static void main(String[] args) {
